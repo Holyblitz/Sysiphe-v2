@@ -1,0 +1,21 @@
+email,company_name,abn,guessed_domain,confidence,site_ok,mx,method
+enquiries@tooheys.com.au,TOOHEYS PTY LIMITED,11000002568,tooheys.com.au,90,yes,mxa-0059e601.gslb.pphosted.com;mxb-0059e601.gslb.pphosted.com,guess_mx_http
+enquiries@newcastlegolf.com.au,NEWCASTLE GOLF CLUB LTD,11000003314,newcastlegolf.com.au,100,yes,filter2.newcas-6.mailguard.com.au;filter1.newcas-6.mailguard.com.au;filter3.newcas-6.mailguard.com.au,guess_mx_http
+enquiries@bbchardware.com,BBC HARDWARE LIMITED,11000003378,bbchardware.com,100,yes,bbchardware.com,guess_mx_http
+enquiries@pioneer-steel.com,PIONEER STEEL PTY LTD,11000009496,pioneer-steel.com,100,yes,pioneersteel-com01i.mail.protection.outlook.com,guess_mx_http
+enquiries@sydneynight.com,SYDNEY NIGHT PATROL & INQUIRY CO PTY LTD,11000013098,sydneynight.com,70,no,park-mx.above.com,guess_mx_http
+enquiries@forestcoachlines.com.au,FOREST COACH LINES PTY LTD,11000037409,forestcoachlines.com.au,100,yes,mx3.nameserver.net.au;smtp1-mke.securence.com;mx1.nameserver.net.au,guess_mx_http
+enquiries@dabee.com,DABEE PTY LTD,11000042642,dabee.com,90,yes,localhost,guess_mx_http
+enquiries@daviddonaldson.com,DAVID DONALDSON PTY LTD,11000047129,daviddonaldson.com,100,yes,mx3c45.carrierzone.com;mx2c45.carrierzone.com;mx1c45.carrierzone.com,guess_mx_http
+enquiries@pioneerquarries.com.au,PIONEER QUARRIES (SYDNEY) PTY LTD,11000048760,pioneerquarries.com.au,100,yes,pioneerquarries-com-au.mail.protection.outlook.com,guess_mx_http
+enquiries@diwing.com,DIWING PTY LTD,11000062082,diwing.com,90,yes,,guess_mx_http
+enquiries@jacandjack.com,JAC AND JACK PTY LTD,11000073049,jacandjack.com,100,yes,jacandjack-com.mail.protection.outlook.com,guess_mx_http
+enquiries@integricare.org.au,INTEGRICARE LIMITED,11000073870,integricare.org.au,90,yes,integricare-org-au.mail.protection.outlook.com,guess_mx_http
+enquiries@bradfordinsulation.com.au,BRADFORD INSULATION INDUSTRIES PTY. LIMITED,11000078357,bradfordinsulation.com.au,100,yes,mxb-002c9e02.gslb.pphosted.com;bradfordinsulation-com-au.mail.protection.outlook.com;mxa-002c9e02.gslb.pphosted.com,guess_mx_http
+enquiries@glennwade.com,GLENN WADE PTY LTD,11000087203,glennwade.com,70,no,mx2.zoho.com;mx3.zoho.com;mx.zoho.com,guess_mx_http
+enquiries@kingsleyinvestments.com,KINGSLEY INVESTMENTS PTY LTD,11000095303,kingsleyinvestments.com,100,yes,smtp.google.com,guess_mx_http
+enquiries@advancecommercialfinance.com,ADVANCE COMMERCIAL FINANCE LTD,11000114732,advancecommercialfinance.com,100,yes,,guess_mx_http
+enquiries@marka.com,MARK A WARREN PTY LTD,11000119219,marka.com,100,yes,mx.uzmanposta.com,guess_mx_http
+enquiries@norfolk.com.au,NORFOLK PTY LTD,11000131742,norfolk.com.au,90,yes,mx1.webinabox.net.au;mx2.webinabox.net.au,guess_mx_http
+enquiries@moreas.com,MOREAS PTY LTD,11000138670,moreas.com,90,yes,mx1.ewebdevelopment.com;mx2.ewebdevelopment.com,guess_mx_http
+enquiries@morrismcmahon.com,"MORRIS, MCMAHON & CO PTY LTD",11000143082,morrismcmahon.com,100,yes,morrismcmahon-com.mail.protection.outlook.com,guess_mx_http
