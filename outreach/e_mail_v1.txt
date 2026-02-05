@@ -1,0 +1,20 @@
+Subject: {contextual_subject}
+
+Hi {company_name} team,
+
+This first message was prepared with the help of an AI assistant,
+under human supervision.
+
+I noticed that {context_hint}.
+
+I work on automating internal workflows using local AI systems,
+with a strong focus on transparency and human-in-the-loop setups.
+
+This is not a sales email.
+I’m simply exploring whether this topic is relevant for your context.
+
+If it makes sense, I’d be happy to continue the conversation myself.
+
+Best regards,
+Romain
+
